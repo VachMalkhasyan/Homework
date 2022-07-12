@@ -1,0 +1,60 @@
+body { background: #f0f0f0; }
+   @media all  and (max-width: 600px) {
+     body { background: #fc0; }
+   }
+
+  
+ .first{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    color: #39951c;
+
+}
+
+
+h3{
+    font-size: 50PX;
+}
+.text{
+    text-align: center;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.nkar1{
+    width: 300px;
+    height: 300px;
+    padding-left: 30px;
+}
+.forma{ 
+    font-style: oblique;
+    background-color: blueviolet;
+    font-size: 20px;
+    margin-top: 30px;
+    
+}
+.button:hover{
+    background: #39951c;
+
+}
+.button:focus{
+    outline: none;
+  box-shadow: 0 0 0 4px #cbd6ee;
+}
+
+.button {
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: #4676D7;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 16px;
+}
+.barev{
+    text-align: center;
+    background-color: rgb(60, 179, 113);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+  
